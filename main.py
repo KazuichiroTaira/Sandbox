@@ -186,7 +186,6 @@ def example():
     print(globx)
     globx+=5
 
-
 example()
 
 
